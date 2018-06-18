@@ -2,9 +2,9 @@
 A cross platform web application which can control lights in an area through Raspberry Pi.
 
 ## Requirements 
-Raspberry Pi
-Relays
-Jumper Wires
+1. Raspberry Pi
+2. Relays
+3. Jumper Wires
 
 ## Install Instructions
 1. Connect Relays to RPi through Jumper Wires.
