@@ -1,0 +1,17 @@
+{
+  "name": "node-rpi",
+  "version": "1.0.0",
+  "description": "API to connect with Meteor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test node-rpi"
+  },
+  "author": "SS",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "epoll": "^2.0.0",
+    "express": "^4.16.3",
+    "rpi-gpio": "^0.9.1"
+  }
+}
